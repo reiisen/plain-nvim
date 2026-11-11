@@ -1,0 +1,5 @@
+require "base".setup()
+require "keymap".setup()
+require "file".setup()
+require "lsp".setup()
+require "plugins".setup()
